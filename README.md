@@ -69,6 +69,7 @@ Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&m
 - 📦🆓 [Voidly](https://www.npmjs.com/package/@voidly/mcp-server) — Global internet censorship intelligence: 116 tools across 119+ countries. Query OONI / IODA / CensoredPlanet evidence, look up 5,356 citable incidents, check if a domain or service is blocked in a country, fetch ISP-level risk scores, run ML-driven shutdown forecasts, and verify censorship claims. Free, no API key needed for read endpoints. `npx @voidly/mcp-server`.
 - 📦🆓 [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI.
 - 📦🆓 [osint-agent-skills](https://github.com/frangelbarrera/osint-agent-skills) — 23 MCP tools (DNS, Shodan InternetDB, crt.sh, Wayback CDX, GitHub code search, OTX, HIBP, Etherscan, Mastodon) with zero-dependency Node.js server for Claude Code, Cursor, and Ollama.
+- 📦🆓 [VulneraMCP](https://github.com/telmon95/VulneraMCP) — AI-powered bug bounty MCP server with recon (subfinder, httpx, gau, ffuf), vulnerability testing (XSS/SQLi/IDOR/CSRF), API/auth/cloud scanning, knowledge-graph analysis, and Markdown reporting. Integrates OWASP ZAP and CLI tools with PostgreSQL storage.
 
 ## Research Intelligence
 
